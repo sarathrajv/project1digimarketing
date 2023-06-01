@@ -1,0 +1,451 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topdiv{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(0, 182, 182);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+
+}
+.topsub{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    width: 30%;
+    height: 15vh;
+    
+}
+
+    
+
+.topsub1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    width: 70%;
+    height: 15vh;
+    
+}
+.blninput{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    color: white;
+    background-color: darkcyan;
+    border: 0;
+    
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.seo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.hm{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+
+.secondmaindiv{
+    width: 100%;
+    height: 100vh;
+    
+    margin-top: 99px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+
+}
+.banheading{
+    width: 40%;
+    height: 100vh;
+    
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.banimg{
+    width: 50%;
+    height:100vh ;
+    
+}
+.sdma{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+.gyq{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: darkcyan;
+    border: 0;
+
+}
+.thirdmaindiv{
+    width: 100%;
+    height: 80vh;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.thirdssub{
+    width: 88%;
+    height: 70vh;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.feature1{
+    border: 1px solid black;
+    width: 250px;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+    border-radius: 50px;
+    box-shadow: 0 0 5px;
+    border: 0;
+
+
+}
+.feature2{
+    border: 1px solid black;
+    width: 250px;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+    border-radius: 50px;
+    box-shadow: 0 0 5px;
+    border: 0;
+
+    
+
+}
+
+.feature3{
+    border: 1px solid black;
+    width: 250px;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+    border-radius: 50px;
+    box-shadow: 0 0 5px;
+    border: 0;
+
+}
+.feature4{
+
+    border: 1px solid black;
+    width: 250px;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+    box-shadow: 0 0 5px;
+    border: 0;
+
+}
+.feature1:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+    
+}
+.feature2:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+    
+
+}
+.feature3:hover{
+
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+.feature4:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+.fourthmaindiv{
+    width: 100%;
+    height: 90vh;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.fourthsub1{
+width: 45%;
+height: 90vh;
+
+
+}
+.fourthsub2{
+width: 55%;
+
+height: 90vh;
+display: flex;
+
+justify-content: space-around;
+align-items: start;
+flex-direction: column;
+}
+.abtus{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tma{
+    color: rgb(0, 213, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.discovercpny{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: darkcyan;
+   
+}
+.fifthmaindiv{
+    width: 100%;
+    height: 30vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+.fifthoursrvc{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+}
+.dwwd{
+    color: rgb(0, 213, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.double{
+    width: 600px;
+    height: 25vh;
+    
+    
+}
+.sixthmaindiv{
+    width: 80%;
+    height: 50vh;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sixthsubdiv{
+    border: 1px solid black;
+    width: 250px;
+    height: 35vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+    flex-direction: column;
+    box-shadow: 0 0 5px;
+    border: 0;
+    
+}
+.sw{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 170, 212);
+}
+.seventhmaindiv{
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+   
+}
+.seventhsubdiv{
+    border: 1px solid black;
+    width: 250px;
+    height: 35vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 20px;
+    flex-direction: column;
+    box-shadow: 0 0 5px;
+    border: 0;
+}
+.eighthmaindiv{
+    width: 100%;
+    height: 100vh;
+    
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.ninthmaindiv{
+    width: 100%;
+    height: 150vh;
+    background-image: linear-gradient(rgb(0, 141, 151),rgb(0, 238, 238));
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.ninthsubdiv{
+    width: 950px;
+    height: 90vh;
+    background-color: white;
+    border-radius: 80px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+.txt{
+    width: 550px;
+    height: 50px;
+    border-radius: 50px;
+}
+.fotf{
+    color: rgb(0, 213, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+
+}
+.smn{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 133, 133);
+
+
+}
+.msg{
+    width: 550px;
+    height: 100px;
+    border-radius: 50px;
+}
+.tenthmaindiv{
+    width: 100%;
+    height: 15vh;
+   
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.lastmaindiv{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.sixthsubdiv:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+.seventhsubdiv:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+.badadiv{
+    
+    
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.blninput:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+    
+}
+.gyq:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+.discovercpny:hover{
+    transform: scale3d(0 0 10px);
+    transition-duration: 0.2s;
+    box-shadow: 0 0 10px;
+    background-image: linear-gradient(rgb(0, 182, 228),white);
+    border: 0;
+}
+
+
+
+
+
+
+    

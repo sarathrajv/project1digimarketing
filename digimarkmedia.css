@@ -1,0 +1,144 @@
+@media(max-width:500px){
+    .topdiv{
+        width: 100%;
+        
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    
+     
+    
+    }
+    .topsub1{
+        
+        width: 100%;
+
+    }
+    .secondmaindiv{
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    width: 240%;
+    height: 130vh;
+    
+    
+        
+    }
+    .thirdssub{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        height: 180vh;
+        width: 240%;
+       
+       
+        
+      
+
+    }
+    .thirdmaindiv{
+        
+        width: 240%;
+        height: 180vh;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        
+    }
+    .fourthmaindiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        
+        width: 240%;
+        height: 120vh;
+
+    }
+    .fifthmaindiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        
+        width: 240%;
+        height: 15vh;
+    }
+    .sixthmaindiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        
+        
+        width: 100%;
+        height: 60vh;
+    }
+    .seventhmaindiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+       
+        width: 100%;
+        height: 60vh;
+
+    }
+
+    .eighthmaindiv{
+        
+        width: 240%;
+        height: 50vh;
+    }
+    .cap{
+        width: 100%;
+    }
+    .ninthmaindiv{
+        width: 240%;
+        height: 120vh;
+    }
+    .tenthmaindiv{
+        width: 240%;
+        height: 15vh;
+        
+    }
+    .lastmaindiv{
+        width: 240%;
+       
+        height: 15vh;
+    }
+    .badadiv{
+        width: 240%;
+       
+        height: 100vh;
+    }
+.feature1{
+    width: 40%;
+    height: 40vh;
+}
+.feature2{
+    width: 40%;
+    height: 40vh;
+}
+.feature3{
+    width: 40%;
+    height: 40vh;
+}
+.feature4{
+    width: 40%;
+    height: 40vh;
+}
+.fourthsub1{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+}
